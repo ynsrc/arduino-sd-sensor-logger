@@ -9,6 +9,12 @@
 6. SD Card
 7. 16x2 LCD Display with I2C Interface
 
+# Libraries
+1. [DHT Sensor Library](https://github.com/adafruit/DHT-sensor-library)
+2. [LiquidCrystal_I2C](https://github.com/marcoschwartz/LiquidCrystal_I2C)
+3. [RTClib](https://github.com/adafruit/RTClib)
+4. [SD](https://github.com/arduino-libraries/SD)
+
 # Circuit
 
 ![Fritzing](images/fritzing.png)
