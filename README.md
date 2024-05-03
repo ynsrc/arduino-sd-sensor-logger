@@ -11,9 +11,9 @@
 
 # Circuit
 
-[Fritzing](images/fritzing.png)
+![Fritzing](images/fritzing.png)
 
-[Proteus](images/proteus.jpg)
+![Proteus](images/proteus.jpg)
 
 # License
 CC BY 4.0 LEGAL CODE
